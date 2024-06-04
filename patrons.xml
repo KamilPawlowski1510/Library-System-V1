@@ -1,0 +1,29 @@
+<object-stream>
+  <list>
+    <Patron>
+      <ID>0</ID>
+      <name>Jacub Pigeon</name>
+      <email>graypearlfastestship@gmail.com</email>
+      <phoneNo>1234567</phoneNo>
+      <address>The Sea</address>
+      <borrowed/>
+    </Patron>
+    <Patron>
+      <ID>123</ID>
+      <name>Tom</name>
+      <email>t@mail.com</email>
+      <phoneNo>123123</phoneNo>
+      <address>Medical System</address>
+      <borrowed>
+        <Book>
+          <ID>1234567</ID>
+          <title>Yes</title>
+          <author>Ofcourse</author>
+          <genre>Absolutely</genre>
+          <cost>3.0</cost>
+          <avail>false</avail>
+        </Book>
+      </borrowed>
+    </Patron>
+  </list>
+</object-stream>

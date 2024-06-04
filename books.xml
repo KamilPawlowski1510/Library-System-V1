@@ -1,0 +1,20 @@
+<object-stream>
+  <list>
+    <Book>
+      <ID>0000000</ID>
+      <title>49 Tints of White</title>
+      <author>Someone in need of Jesus</author>
+      <genre>I rather not say</genre>
+      <cost>7.0</cost>
+      <avail>true</avail>
+    </Book>
+    <Book>
+      <ID>1234567</ID>
+      <title>Yes</title>
+      <author>Ofcourse</author>
+      <genre>Absolutely</genre>
+      <cost>3.0</cost>
+      <avail>false</avail>
+    </Book>
+  </list>
+</object-stream>
